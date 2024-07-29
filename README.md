@@ -1,4 +1,5 @@
 Lottery Smart Contract
+
 This is a simple lottery smart contract implemented in Solidity. The contract allows participants to enter the lottery by sending 2 Ether. Once there are at least 3 participants, the manager can randomly select a winner who will receive the entire balance of the contract.
 
 Features
